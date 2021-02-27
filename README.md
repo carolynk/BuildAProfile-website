@@ -1,1 +1,3 @@
-# BuildAProfile-website
+# BuildAProfile website
+
+Built with the Mern Stack
